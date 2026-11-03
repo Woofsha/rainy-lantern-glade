@@ -16,7 +16,7 @@ A single-file, procedurally drawn rainy forest scene. No build step, no dependen
 
 Open `index.html` in a browser. That's it.
 
-Click the **rain sound** pill in the top right to start the audio. Browsers require a user gesture before audio can play. Click a puddle to make ripples.
+Click the **rain sound** pill in the top right to start the audio. Browsers require a user gesture before audio can play. The volume slider next to it starts at 30% and goes up to the full mix. Click a puddle to make ripples.
 
 ## Notes
 
